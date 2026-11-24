@@ -1,0 +1,3 @@
+Cursor blinks at three
+I add one print — bug runs clean
+delete it — chaos
